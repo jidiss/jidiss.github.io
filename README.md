@@ -1,2 +1,1 @@
-# jidiss.github.io
-jidss.com
+#jidss
