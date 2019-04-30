@@ -457,7 +457,7 @@ ol.type li a:hover {
 /* Choose Section */
 #choose {
 	background: #222;
-	background: url(../img/choose-bg.jpg) no-repeat top center fixed;
+	background: url(../img/choose-b.jpg) no-repeat top center fixed;
 	background-color: #e5e5e5;
 	background-size: cover;
 }
